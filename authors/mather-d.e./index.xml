@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mather, D.E. | Mitchell G. Roth</title>
+    <link>rothmi12.github.io/authors/mather-d.e./</link>
+      <atom:link href="rothmi12.github.io/authors/mather-d.e./index.xml" rel="self" type="application/rss+xml" />
+    <description>Mather, D.E.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mather, D.E.</title>
+      <link>rothmi12.github.io/authors/mather-d.e./</link>
+    </image>
+    
+    <item>
+      <title>Laser Ablation Tomography for Visualization of Root Colonization by Edaphic Organisms</title>
+      <link>rothmi12.github.io/doi.org/10.1093/jxb/erz271</link>
+      <pubDate>0001</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1093/jxb/erz271</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

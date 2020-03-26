@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacobs, J.L. | Mitchell G. Roth</title>
+    <link>rothmi12.github.io/authors/jacobs-j.l./</link>
+      <atom:link href="rothmi12.github.io/authors/jacobs-j.l./index.xml" rel="self" type="application/rss+xml" />
+    <description>Jacobs, J.L.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jacobs, J.L.</title>
+      <link>rothmi12.github.io/authors/jacobs-j.l./</link>
+    </image>
+    
+    <item>
+      <title>Diagnostic qPCR Assay to Detect Fusarium brasiliense, a causal agent of soybean Sudden Death Syndrome and Root Rot of Dry Bean</title>
+      <link>rothmi12.github.io/doi.org/10.1094/pdis-01-19-0016-re</link>
+      <pubDate>0001</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1094/pdis-01-19-0016-re</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluopyram sensitivity and functional characterization of SdhB in the Fusarium solani species complex causing soybean sudden death syndrome</title>
+      <link>rothmi12.github.io/doi.org/10.3389/fmicb.2018.02335</link>
+      <pubDate>0001</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.3389/fmicb.2018.02335</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluopyram Suppresses Population Densities of Heterodera glycines in Field and Greenhouse Studies in Michigan</title>
+      <link>rothmi12.github.io/doi.org/10.1094/pdis-04-19-0874-re</link>
+      <pubDate>0001</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1094/pdis-04-19-0874-re</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal dynamics of Fusarium virguliforme colonization of soybean roots</title>
+      <link>rothmi12.github.io/doi.org/10.1094/pdis-03-18-0384-re</link>
+      <pubDate>0001</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1094/pdis-03-18-0384-re</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

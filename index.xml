@@ -15,7 +15,7 @@
     <item>
       <title>Example Page 1</title>
       <link>rothmi12.github.io/courses/example/example1/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <pubDate>2019</pubDate>
       <guid>rothmi12.github.io/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
@@ -36,7 +36,7 @@
     <item>
       <title>Example Page 2</title>
       <link>rothmi12.github.io/courses/example/example2/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <pubDate>2019</pubDate>
       <guid>rothmi12.github.io/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
@@ -57,7 +57,7 @@
     <item>
       <title>Example Talk</title>
       <link>rothmi12.github.io/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <pubDate>2030</pubDate>
       <guid>rothmi12.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -77,24 +77,9 @@
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>rothmi12.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>rothmi12.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Slides</title>
       <link>rothmi12.github.io/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>2019</pubDate>
       <guid>rothmi12.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
@@ -227,7 +212,7 @@ Three
     <item>
       <title>A Brief Overview of Genetic Modification through Metaphors</title>
       <link>rothmi12.github.io/post/1_gmo-metaphors/</link>
-      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>2018</pubDate>
       <guid>rothmi12.github.io/post/1_gmo-metaphors/</guid>
       <description>&lt;p&gt;Hey everyone, thanks for stumbling on this blog. This is my first post, and it really stems from a discussion I had with a fellow student recently about herbicides in agriculture (more on that topic in a later post). As scientists, both of us have studied the intricacies of genetics and understand how genetic modifications work, and how they can change an organism&amp;rsquo;s features. It&amp;rsquo;s really fascinating how genetics works, and the powerful potential it has to solve problems, both inside and outside of agriculture.&lt;/p&gt;
 &lt;p&gt;All living things (plants, animals, fungi, etc.) have DNA. A common DNA analogy is with blueprints. DNA is similar to the blueprint of a house. DNA is not a house, but it has all of the information needed to build one. Many blueprints have common features, like a roof, a basement, and a front door. Similarly, some DNA is common among all living things. Some blueprints have more specific features found in more specific groups of houses like an attached garage, walk in closets, or hot tub. Similarly, some DNA is common among groups of organisms, like plants or animals, but not both. Finally, some blueprints have specific instructions for something so unique, it is only found in three or four houses in the world. DNA that is common only to a few unique species is also this way.&lt;/p&gt;
@@ -244,7 +229,7 @@ Three
     <item>
       <title>External Project</title>
       <link>rothmi12.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>2016</pubDate>
       <guid>rothmi12.github.io/project/external-project/</guid>
       <description></description>
     </item>
@@ -252,7 +237,7 @@ Three
     <item>
       <title>Internal Project</title>
       <link>rothmi12.github.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>2016</pubDate>
       <guid>rothmi12.github.io/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -263,43 +248,91 @@ Three
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>rothmi12.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>rothmi12.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>A Protoplast Generation and Transformation Methods for Soybean Sudden Death Syndrome Causal Agents Fusarium virguliforme and F. brasiliense</title>
+      <link>rothmi12.github.io/doi.org/10.1186/s40694-019-0070-0</link>
+      <pubDate>0001</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1186/s40694-019-0070-0</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>rothmi12.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>rothmi12.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Convergent evolution of C239S mutation in Pythium spp. β-tubulin coincides with inherent insensitivity to ethaboxam</title>
+      <link>rothmi12.github.io/doi.org/10.1094/phyto-01-19-0022-r</link>
+      <pubDate>0001</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1094/phyto-01-19-0022-r</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnostic qPCR Assay to Detect Fusarium brasiliense, a causal agent of soybean Sudden Death Syndrome and Root Rot of Dry Bean</title>
+      <link>rothmi12.github.io/doi.org/10.1094/pdis-01-19-0016-re</link>
+      <pubDate>0001</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1094/pdis-01-19-0016-re</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluopyram sensitivity and functional characterization of SdhB in the Fusarium solani species complex causing soybean sudden death syndrome</title>
+      <link>rothmi12.github.io/doi.org/10.3389/fmicb.2018.02335</link>
+      <pubDate>0001</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.3389/fmicb.2018.02335</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluopyram Suppresses Population Densities of Heterodera glycines in Field and Greenhouse Studies in Michigan</title>
+      <link>rothmi12.github.io/doi.org/10.1094/pdis-04-19-0874-re</link>
+      <pubDate>0001</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1094/pdis-04-19-0874-re</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration of Sudden Death Syndrome Resistance Loci in the Soybean Genome</title>
+      <link>rothmi12.github.io/doi.org/10.1007/s00122-018-3063-0</link>
+      <pubDate>0001</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1007/s00122-018-3063-0</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser Ablation Tomography for Visualization of Root Colonization by Edaphic Organisms</title>
+      <link>rothmi12.github.io/doi.org/10.1093/jxb/erz271</link>
+      <pubDate>0001</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1093/jxb/erz271</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MultispeQ Beta: a tool for large-scale plant phenotyping connected to the open PhotosynQ network</title>
+      <link>rothmi12.github.io/doi.org/10.1098/rsos.160592</link>
+      <pubDate>0001</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1098/rsos.160592</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next Generation Sequencing Identification of Fungal Communities Within the Tar Spot Complex of Corn in Michigan</title>
+      <link>rothmi12.github.io/doi.org/10.1094/pbiomes-03-19-0017-r</link>
+      <pubDate>0001</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1094/pbiomes-03-19-0017-r</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Soybean Yield and Sudden Death Syndrome Development using At-planting Risk Factors</title>
+      <link>rothmi12.github.io/doi.org/10.1094/phyto-02-19-0040-r</link>
+      <pubDate>0001</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1094/phyto-02-19-0040-r</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal dynamics of Fusarium virguliforme colonization of soybean roots</title>
+      <link>rothmi12.github.io/doi.org/10.1094/pdis-03-18-0384-re</link>
+      <pubDate>0001</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1094/pdis-03-18-0384-re</guid>
+      <description></description>
     </item>
     
   </channel>

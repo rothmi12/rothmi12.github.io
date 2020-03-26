@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cianzio, S.R. | Mitchell G. Roth</title>
+    <link>rothmi12.github.io/authors/cianzio-s.r./</link>
+      <atom:link href="rothmi12.github.io/authors/cianzio-s.r./index.xml" rel="self" type="application/rss+xml" />
+    <description>Cianzio, S.R.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Cianzio, S.R.</title>
+      <link>rothmi12.github.io/authors/cianzio-s.r./</link>
+    </image>
+    
+    <item>
+      <title>Integration of Sudden Death Syndrome Resistance Loci in the Soybean Genome</title>
+      <link>rothmi12.github.io/doi.org/10.1007/s00122-018-3063-0</link>
+      <pubDate>0001</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1007/s00122-018-3063-0</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
