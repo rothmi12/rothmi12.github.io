@@ -5,7 +5,7 @@
     <link>rothmi12.github.io/authors/wang-j./</link>
       <atom:link href="rothmi12.github.io/authors/wang-j./index.xml" rel="self" type="application/rss+xml" />
     <description>Wang, J.</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Wang, J.</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>Fluopyram sensitivity and functional characterization of SdhB in the Fusarium solani species complex causing soybean sudden death syndrome</title>
-      <link>rothmi12.github.io/doi.org/10.3389/fmicb.2018.02335</link>
-      <pubDate>0001</pubDate>
-      <guid>rothmi12.github.io/doi.org/10.3389/fmicb.2018.02335</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Predicting Soybean Yield and Sudden Death Syndrome Development using At-planting Risk Factors</title>
       <link>rothmi12.github.io/doi.org/10.1094/phyto-02-19-0040-r</link>
-      <pubDate>0001</pubDate>
+      <pubDate>2019</pubDate>
       <guid>rothmi12.github.io/doi.org/10.1094/phyto-02-19-0040-r</guid>
       <description></description>
     </item>
@@ -31,8 +23,16 @@
     <item>
       <title>Temporal dynamics of Fusarium virguliforme colonization of soybean roots</title>
       <link>rothmi12.github.io/doi.org/10.1094/pdis-03-18-0384-re</link>
-      <pubDate>0001</pubDate>
+      <pubDate>2018</pubDate>
       <guid>rothmi12.github.io/doi.org/10.1094/pdis-03-18-0384-re</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluopyram sensitivity and functional characterization of SdhB in the Fusarium solani species complex causing soybean sudden death syndrome</title>
+      <link>rothmi12.github.io/doi.org/10.3389/fmicb.2018.02335</link>
+      <pubDate>2018</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.3389/fmicb.2018.02335</guid>
       <description></description>
     </item>
     

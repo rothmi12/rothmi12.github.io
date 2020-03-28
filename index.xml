@@ -77,6 +77,102 @@
     </item>
     
     <item>
+      <title>Fluopyram Suppresses Population Densities of Heterodera glycines in Field and Greenhouse Studies in Michigan</title>
+      <link>rothmi12.github.io/doi.org/10.1094/pdis-04-19-0874-re</link>
+      <pubDate>2020</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1094/pdis-04-19-0874-re</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying virulence factors in Sclerotinia sclerotiorum</title>
+      <link>rothmi12.github.io/project/3_sclerotinia_effectors/</link>
+      <pubDate>2020</pubDate>
+      <guid>rothmi12.github.io/project/3_sclerotinia_effectors/</guid>
+      <description>&lt;p&gt;Microbes and plants interact by releasing recognizing different molecules. In plant pathology, pathogen-secreted molecules are often referred to as &amp;ldquo;effectors&amp;rdquo; because they effect plant physiology to establish an infection. However, pathogens also secrete factors that are not always classified as effectors, such as cell-wall degrading enzymes and secondary metabolites (reviewed in 
+&lt;a href=&#34;https://doi.org/10.1146/annurev.phyto.112408.132637&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stergiopoulos and de Wit 2009&lt;/a&gt;). Despite their categorization, the mechanisms by which pathogen-secreted molecules effect plants are very interesting to many researchers like me.&lt;/p&gt;
+&lt;p&gt;Using a time-course transcriptome dataset, I have helped our research group identify candidate effector genes in &lt;em&gt;S. sclerotiorum&lt;/em&gt;. Additionally, a CRISPR/Cas9 mediated transformation method developed by colleagues have facilitated the rapid, efficient transformation of &lt;em&gt;S. sclerotiorum&lt;/em&gt;, allowing for characterization of genes involved in fungal development and pathogenicity on soybean and other plants. One effector that I am currently characterizes is particularly interesting because it appears to have two functions, able to act as a cell wall degrading enzime &lt;em&gt;and&lt;/em&gt; as an inducer of plant cell death.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diagnostic qPCR Assay to Detect Fusarium brasiliense, a causal agent of soybean Sudden Death Syndrome and Root Rot of Dry Bean</title>
+      <link>rothmi12.github.io/doi.org/10.1094/pdis-01-19-0016-re</link>
+      <pubDate>2020</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1094/pdis-01-19-0016-re</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R-gene Mediated Susceptibility to White Mold in Soybean</title>
+      <link>rothmi12.github.io/project/2_soybean_rgene_susceptibility/</link>
+      <pubDate>2020</pubDate>
+      <guid>rothmi12.github.io/project/2_soybean_rgene_susceptibility/</guid>
+      <description>&lt;p&gt;The plant immune system is considered to be innate rather than adaptive. Part of this innate immune system is the presence of membrane bound proteins that can recognize specific molecules in the surrounding environment. These genes go by many different names, but are most commonly referred to as R-genes, where &amp;ldquo;R&amp;rdquo; stands for either &amp;ldquo;resistance&amp;rdquo; or &amp;ldquo;receptor&amp;rdquo;. When an R-gene recognizes certain molecules from plant pathogens, the R-gene can initiate defense signals to prevent the pathogen from infecting the plant. These defense signals often culminate in localized plant cell death - sacrificing part of the plant to save the whole organism.&lt;/p&gt;
+&lt;p&gt;However, some fungal plant pathogens specifically feed on dead plant tissue. Therefore, plant cell death is exactly what the fungal pathogen wants. Therefore, some necrotrophic fungi purposely release molecules that can be recognzied by R-genes, triggering localized plant cell death. This concept is referred to as the inverse gene-for-gene model (pictured above). Key examples of this have been shown in two different fungal diseases of wheat; tan spot (Ciuffetti et al 
+&lt;a href=&#34;https://doi.org/10.1111/j.1469-8137.2010.03362.x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2010&lt;/a&gt;), and Stagonospora nodorum blotch (Friesen and Faris 
+&lt;a href=&#34;https://doi.org/10.1080/07060661003620896&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2010&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Using a bioinformatics approach, I analyzed the transcriptomes of susceptible and resistant soybean lines over time after inoculation with &lt;em&gt;Sclerotinia sclerotiorum&lt;/em&gt;. I am specifically interested in identifying genes that showed opposite trends between the two lines in response to fungal infection. Genes that increased in the resistant line with a corresponding decrease in the susceptible line may indicate that gene&amp;rsquo;s role in resistance. Likewise, genes that increased in the susceptible line with a corresponding decrease in the resistant line may indicate that gene&amp;rsquo;s role in susceptibility. A graphical abstract of this concept can be found below.
+&lt;img src=&#34;Sclerotinia-DEG-Graphical-Abstract.png&#34; alt=&#34;Graphical abstract for gene candidates involved in resistance to S. sclerotiorum. Made with biorender&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Identifying genes based on this trend resulted in many gene candidates. To narrow down the search, I included additional criteria involving overall expression levels and statistics. These criteria included 1) overall average expression level &amp;gt; 1 rpkm, 2) expression present in both susceptible and resistant lines, and 3) no significant difference at 0 hpi. These criteria allowed us to identify genes that have strong expression levels (1) that change significantly in opposite directions (2), specifically in response to &lt;em&gt;S. sclerotiorum&lt;/em&gt; (3). This narrowed the list of candidates down to 1 gene, an R-gene that increased significantly in the susceptible line, but went down and stayed very low in the resistant line. Using a combination of reverse genetics approaches, virus-induced gene silencing, transient expression, and yeast two hybrid, I hope to validate the role of this R-gene in triggering plant cell death and also identify the cognate S. sclerotiorum protein that activates this susceptibility gene.
+&lt;img src=&#34;GmEIX.png&#34; alt=&#34;Gene expression of the soybean R gene in susceptible and resistant lines in response to Sclerotinia sclerotiorum.&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Convergent evolution of C239S mutation in Pythium spp. β-tubulin coincides with inherent insensitivity to ethaboxam</title>
+      <link>rothmi12.github.io/doi.org/10.1094/phyto-01-19-0022-r</link>
+      <pubDate>2019</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1094/phyto-01-19-0022-r</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next Generation Sequencing Identification of Fungal Communities Within the Tar Spot Complex of Corn in Michigan</title>
+      <link>rothmi12.github.io/doi.org/10.1094/pbiomes-03-19-0017-r</link>
+      <pubDate>2019</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1094/pbiomes-03-19-0017-r</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Soybean Yield and Sudden Death Syndrome Development using At-planting Risk Factors</title>
+      <link>rothmi12.github.io/doi.org/10.1094/phyto-02-19-0040-r</link>
+      <pubDate>2019</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1094/phyto-02-19-0040-r</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser Ablation Tomography for Visualization of Root Colonization by Edaphic Organisms</title>
+      <link>rothmi12.github.io/doi.org/10.1093/jxb/erz271</link>
+      <pubDate>2019</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1093/jxb/erz271</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering the Phenylpropanoid Pathway for Disease Resistance</title>
+      <link>rothmi12.github.io/project/1_soybean_phenylpropanoid/</link>
+      <pubDate>2019</pubDate>
+      <guid>rothmi12.github.io/project/1_soybean_phenylpropanoid/</guid>
+      <description>&lt;p&gt;Most commercial soybean varieties are highly susceptible to &lt;em&gt;Sclerotinia sclerotiorum&lt;/em&gt;, which causes the soybean disease known as Sclerotinia stem rot, or more commonly referred to as &amp;ldquo;white mold&amp;rdquo;. A recent study by Ranjan et al (
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13082&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019&lt;/a&gt;) showed that two recombinant inbred soybean lines from the same parentage respond differently when inoculated with &lt;em&gt;Sclerotinia sclerotiorum&lt;/em&gt;, showing either susceptible or resistant phenotypes. Interestingly, the resistant soybean line developed a strong &amp;ldquo;red stem&amp;rdquo; phenotype (pictured above).&lt;/p&gt;
+&lt;p&gt;Comparing genetic responses between the two soybean lines indicated that a downregulation of genes in the phenylpropanoid pathway may be a key to mounting a resistance response. Additional metabolomics efforts showed that phenylpropanoid intermediates accumulated higher in the resistant line than the susceptible line. Finally, these phenylpropanoid intermediate compounds were shown to have anti-fungal activity, specifically targeting ergosterol biosynthesis.
+&lt;img src=&#34;phenylpropanoid_pathway.png&#34; alt=&#34;Phenylpropanoid pathway, from Ranjan et al. 2019&#34;&gt;
+My work is continuing on this project by identifying key genetic components of the phenylpropanoid pathway in soybean and using a gene silencing approach to knock down each phenylpropanoid gene candidate. Using this approach, I hope to validate the role of each gene in the phenylpropanoid pathway and identify targets that can be silenced to specifically lead to accumulating anti-fungal phenylpropanoid intermediates.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Protoplast Generation and Transformation Methods for Soybean Sudden Death Syndrome Causal Agents Fusarium virguliforme and F. brasiliense</title>
+      <link>rothmi12.github.io/doi.org/10.1186/s40694-019-0070-0</link>
+      <pubDate>2019</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1186/s40694-019-0070-0</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Slides</title>
       <link>rothmi12.github.io/slides/example/</link>
       <pubDate>2019</pubDate>
@@ -210,6 +306,36 @@ Three
     </item>
     
     <item>
+      <title>Revealing Mechanisms of Induction of Soybean Sudden Death Syndrome</title>
+      <link>rothmi12.github.io/project/4_sds_effectors/</link>
+      <pubDate>2019</pubDate>
+      <guid>rothmi12.github.io/project/4_sds_effectors/</guid>
+      <description>&lt;p&gt;Microbes and plants interact by releasing recognizing different molecules. In plant pathology, pathogen-secreted molecules are often referred to as &amp;ldquo;effectors&amp;rdquo; because they effect plant physiology to establish an infection. However, pathogens also secrete factors that are not always classified as effectors, such as cell-wall degrading enzymes and secondary metabolites (reviewed in 
+&lt;a href=&#34;https://doi.org/10.1146/annurev.phyto.112408.132637&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stergiopoulos and de Wit 2009&lt;/a&gt;). Despite their categorization, the mechanisms by which pathogen-secreted molecules effect plants are very interesting to many researchers like me.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fusarium virguliforme&lt;/em&gt;, causal agent of soybean sudden death syndrome (SDS) releases multiple effector proteins during infection (
+&lt;a href=&#34;https://doi.org/10.1371/journal.pone.0093667&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abeysekara et al 2014&lt;/a&gt;). Two of these proteins, FvTox1 (
+&lt;a href=&#34;https://doi.org/10.1094/MPMI-12-10-0285&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brar et al. 2011&lt;/a&gt;) and FvNIS1 (
+&lt;a href=&#34;https://doi.org/10.1094/MPMI-09-15-0219-R&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chang et al. 2016&lt;/a&gt;), have been shown to play a role in chlorosis and necrosis, respectively. Using &lt;em&gt;Agrobacterium&lt;/em&gt;-mediated heterologous expression in tobacco, I was able to show that FvNIS1 (NF) still induces necrosis in tobacco similar to the positive control (R), while FvTox1 (TF) does not induce chlorosis in tobacco, similar to the empty vector control (EV). &lt;img src=&#34;SDS_agroinfiltration.jpg&#34; alt=&#34;Agrobacterium infiltration of F. virguliforme effectors FvTox1 and FvNIS1&#34;&gt; These results suggest that FvNIS1 may target a pathway conserved across soybean and tobacco to induce necrosis, while FvTox1 may target a soybean-specific pathway to induce chlorosis. Future work will incude co-immunoprecipitation to identify FvTox1- and FvNIS1-interacting proteins, which may reveal mechanisms of SDS symptom development.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Temporal dynamics of Fusarium virguliforme colonization of soybean roots</title>
+      <link>rothmi12.github.io/doi.org/10.1094/pdis-03-18-0384-re</link>
+      <pubDate>2018</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.1094/pdis-03-18-0384-re</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluopyram sensitivity and functional characterization of SdhB in the Fusarium solani species complex causing soybean sudden death syndrome</title>
+      <link>rothmi12.github.io/doi.org/10.3389/fmicb.2018.02335</link>
+      <pubDate>2018</pubDate>
+      <guid>rothmi12.github.io/doi.org/10.3389/fmicb.2018.02335</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Brief Overview of Genetic Modification through Metaphors</title>
       <link>rothmi12.github.io/post/1_gmo-metaphors/</link>
       <pubDate>2018</pubDate>
@@ -227,111 +353,18 @@ Three
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>rothmi12.github.io/project/external-project/</link>
-      <pubDate>2016</pubDate>
-      <guid>rothmi12.github.io/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>rothmi12.github.io/project/internal-project/</link>
-      <pubDate>2016</pubDate>
-      <guid>rothmi12.github.io/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Protoplast Generation and Transformation Methods for Soybean Sudden Death Syndrome Causal Agents Fusarium virguliforme and F. brasiliense</title>
-      <link>rothmi12.github.io/doi.org/10.1186/s40694-019-0070-0</link>
-      <pubDate>0001</pubDate>
-      <guid>rothmi12.github.io/doi.org/10.1186/s40694-019-0070-0</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Convergent evolution of C239S mutation in Pythium spp. β-tubulin coincides with inherent insensitivity to ethaboxam</title>
-      <link>rothmi12.github.io/doi.org/10.1094/phyto-01-19-0022-r</link>
-      <pubDate>0001</pubDate>
-      <guid>rothmi12.github.io/doi.org/10.1094/phyto-01-19-0022-r</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diagnostic qPCR Assay to Detect Fusarium brasiliense, a causal agent of soybean Sudden Death Syndrome and Root Rot of Dry Bean</title>
-      <link>rothmi12.github.io/doi.org/10.1094/pdis-01-19-0016-re</link>
-      <pubDate>0001</pubDate>
-      <guid>rothmi12.github.io/doi.org/10.1094/pdis-01-19-0016-re</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fluopyram sensitivity and functional characterization of SdhB in the Fusarium solani species complex causing soybean sudden death syndrome</title>
-      <link>rothmi12.github.io/doi.org/10.3389/fmicb.2018.02335</link>
-      <pubDate>0001</pubDate>
-      <guid>rothmi12.github.io/doi.org/10.3389/fmicb.2018.02335</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fluopyram Suppresses Population Densities of Heterodera glycines in Field and Greenhouse Studies in Michigan</title>
-      <link>rothmi12.github.io/doi.org/10.1094/pdis-04-19-0874-re</link>
-      <pubDate>0001</pubDate>
-      <guid>rothmi12.github.io/doi.org/10.1094/pdis-04-19-0874-re</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Integration of Sudden Death Syndrome Resistance Loci in the Soybean Genome</title>
       <link>rothmi12.github.io/doi.org/10.1007/s00122-018-3063-0</link>
-      <pubDate>0001</pubDate>
+      <pubDate>2018</pubDate>
       <guid>rothmi12.github.io/doi.org/10.1007/s00122-018-3063-0</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Laser Ablation Tomography for Visualization of Root Colonization by Edaphic Organisms</title>
-      <link>rothmi12.github.io/doi.org/10.1093/jxb/erz271</link>
-      <pubDate>0001</pubDate>
-      <guid>rothmi12.github.io/doi.org/10.1093/jxb/erz271</guid>
       <description></description>
     </item>
     
     <item>
       <title>MultispeQ Beta: a tool for large-scale plant phenotyping connected to the open PhotosynQ network</title>
       <link>rothmi12.github.io/doi.org/10.1098/rsos.160592</link>
-      <pubDate>0001</pubDate>
+      <pubDate>2016</pubDate>
       <guid>rothmi12.github.io/doi.org/10.1098/rsos.160592</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Next Generation Sequencing Identification of Fungal Communities Within the Tar Spot Complex of Corn in Michigan</title>
-      <link>rothmi12.github.io/doi.org/10.1094/pbiomes-03-19-0017-r</link>
-      <pubDate>0001</pubDate>
-      <guid>rothmi12.github.io/doi.org/10.1094/pbiomes-03-19-0017-r</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting Soybean Yield and Sudden Death Syndrome Development using At-planting Risk Factors</title>
-      <link>rothmi12.github.io/doi.org/10.1094/phyto-02-19-0040-r</link>
-      <pubDate>0001</pubDate>
-      <guid>rothmi12.github.io/doi.org/10.1094/phyto-02-19-0040-r</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Temporal dynamics of Fusarium virguliforme colonization of soybean roots</title>
-      <link>rothmi12.github.io/doi.org/10.1094/pdis-03-18-0384-re</link>
-      <pubDate>0001</pubDate>
-      <guid>rothmi12.github.io/doi.org/10.1094/pdis-03-18-0384-re</guid>
       <description></description>
     </item>
     
