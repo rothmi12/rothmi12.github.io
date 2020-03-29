@@ -197,7 +197,7 @@
   
   
   
-  <link rel="stylesheet" href="../../../css/academic.css">
+  <link rel="stylesheet" href="/rothmi12.github.io/css/academic.css">
 
   
 
@@ -209,9 +209,9 @@
 
   
 
-  <link rel="manifest" href="../../../index.webmanifest">
-  <link rel="icon" type="image/png" href="../../../images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="../../../images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="manifest" href="/rothmi12.github.io/index.webmanifest">
+  <link rel="icon" type="image/png" href="/rothmi12.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/rothmi12.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="rothmi12.github.io/doi.org/10.1094/pbiomes-03-19-0017-r">
 
@@ -349,7 +349,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="../../../">Mitchell G. Roth</a>
+      <a class="navbar-brand" href="/rothmi12.github.io/">Mitchell G. Roth</a>
     </div>
     
 
@@ -362,7 +362,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="../../../">Mitchell G. Roth</a>
+      <a class="navbar-brand" href="/rothmi12.github.io/">Mitchell G. Roth</a>
     </div>
     
 
@@ -397,7 +397,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../#about"><span>Home</span></a>
+          <a class="nav-link " href="/rothmi12.github.io/#about"><span>Home</span></a>
         </li>
 
         
@@ -426,7 +426,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../#research"><span>Research</span></a>
+          <a class="nav-link " href="/rothmi12.github.io/#research"><span>Research</span></a>
         </li>
 
         
@@ -455,7 +455,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../#publications"><span>Publications</span></a>
+          <a class="nav-link " href="/rothmi12.github.io/#publications"><span>Publications</span></a>
         </li>
 
         
@@ -484,7 +484,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../#teaching"><span>Teaching</span></a>
+          <a class="nav-link " href="/rothmi12.github.io/#teaching"><span>Teaching</span></a>
         </li>
 
         
@@ -506,7 +506,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../files/MGR_CV_full.pdf"><span>CV</span></a>
+          <a class="nav-link " href="/rothmi12.github.io/files/MGR_CV_full.pdf"><span>CV</span></a>
         </li>
 
         
@@ -535,7 +535,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="../../../#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/rothmi12.github.io/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -626,7 +626,7 @@
     
 
   
-  <span><a href="../../../authors/mccoy-a.g./">McCoy, A.G.</a></span>, <span><a href="../../../authors/roth-m.g./">Roth, M.G.</a></span>, <span><a href="../../../authors/shay-r./">Shay, R.</a></span>, <span><a href="../../../authors/noel-z.a./">Noel, Z.A.</a></span>, <span><a href="../../../authors/jayawardana-m.a./">Jayawardana, M.A.</a></span>, <span><a href="../../../authors/longley-r.w./">Longley, R.W.</a></span>, <span><a href="../../../authors/bonito-g./">Bonito, G.</a></span>, <span><a href="../../../authors/chilvers-m.i./">Chilvers, M.I.</a></span>
+  <span><a href="rothmi12.github.io/authors/mccoy-a.g./">McCoy, A.G.</a></span>, <span><a href="rothmi12.github.io/authors/roth-m.g./">Roth, M.G.</a></span>, <span><a href="rothmi12.github.io/authors/shay-r./">Shay, R.</a></span>, <span><a href="rothmi12.github.io/authors/noel-z.a./">Noel, Z.A.</a></span>, <span><a href="rothmi12.github.io/authors/jayawardana-m.a./">Jayawardana, M.A.</a></span>, <span><a href="rothmi12.github.io/authors/longley-r.w./">Longley, R.W.</a></span>, <span><a href="rothmi12.github.io/authors/bonito-g./">Bonito, G.</a></span>, <span><a href="rothmi12.github.io/authors/chilvers-m.i./">Chilvers, M.I.</a></span>
   </div>
   
   
@@ -711,7 +711,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 669px; max-height: 267px;">
   <div style="position: relative">
-    <img src="../../../doi.org/10.1094/featured.jpg" alt="" class="featured-image">
+    <img src="/rothmi12.github.io/doi.org/10.1094/featured.jpg" alt="" class="featured-image">
     
   </div>
 </div>
@@ -731,7 +731,7 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="../../../publication/#2">
+            <a href="rothmi12.github.io/publication/#2">
               Journal article
             </a>
             
@@ -881,7 +881,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="../../../authors/mccoy-a.g./"></a></h5>
+      <h5 class="card-title"><a href="rothmi12.github.io/authors/mccoy-a.g./"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -909,7 +909,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="../../../authors/roth-m.g./"></a></h5>
+      <h5 class="card-title"><a href="rothmi12.github.io/authors/roth-m.g./"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -937,7 +937,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="../../../authors/shay-r./"></a></h5>
+      <h5 class="card-title"><a href="rothmi12.github.io/authors/shay-r./"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -965,7 +965,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="../../../authors/noel-z.a./"></a></h5>
+      <h5 class="card-title"><a href="rothmi12.github.io/authors/noel-z.a./"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -993,7 +993,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="../../../authors/jayawardana-m.a./"></a></h5>
+      <h5 class="card-title"><a href="rothmi12.github.io/authors/jayawardana-m.a./"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1021,7 +1021,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="../../../authors/longley-r.w./"></a></h5>
+      <h5 class="card-title"><a href="rothmi12.github.io/authors/longley-r.w./"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1049,7 +1049,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="../../../authors/bonito-g./"></a></h5>
+      <h5 class="card-title"><a href="rothmi12.github.io/authors/bonito-g./"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1077,7 +1077,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="../../../authors/chilvers-m.i./"></a></h5>
+      <h5 class="card-title"><a href="rothmi12.github.io/authors/chilvers-m.i./"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1149,7 +1149,7 @@
     
     
     <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const search_config = {"indexURI":"/rothmi12.github.io/index.json","minLength":1,"threshold":0.3};
       const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
@@ -1204,7 +1204,7 @@
     
     
     
-    <script src="../../../js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+    <script src="/rothmi12.github.io/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
 
     
 
