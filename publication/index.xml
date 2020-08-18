@@ -5,12 +5,20 @@
     <link>rothmi12.github.io/publication/</link>
       <atom:link href="rothmi12.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>rothmi12.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Integrated Management of Important Soybean Pathogens of the United States in Changing Climate</title>
+      <link>rothmi12.github.io/publication/12-ipm-soybean-diseases/</link>
+      <pubDate>2020</pubDate>
+      <guid>rothmi12.github.io/publication/12-ipm-soybean-diseases/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fluopyram Suppresses Population Densities of Heterodera glycines in Field and Greenhouse Studies in Michigan</title>

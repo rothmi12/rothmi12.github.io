@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faske, T.R. | Mitchell G. Roth</title>
+    <link>rothmi12.github.io/authors/faske-t.r./</link>
+      <atom:link href="rothmi12.github.io/authors/faske-t.r./index.xml" rel="self" type="application/rss+xml" />
+    <description>Faske, T.R.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Faske, T.R.</title>
+      <link>rothmi12.github.io/authors/faske-t.r./</link>
+    </image>
+    
+    <item>
+      <title>Integrated Management of Important Soybean Pathogens of the United States in Changing Climate</title>
+      <link>rothmi12.github.io/publication/12-ipm-soybean-diseases/</link>
+      <pubDate>2020</pubDate>
+      <guid>rothmi12.github.io/publication/12-ipm-soybean-diseases/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
