@@ -5,12 +5,28 @@
     <link>rothmi12.github.io/publication/</link>
       <atom:link href="rothmi12.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>rothmi12.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Phylogenomic analysis of a 55.1 kb 19-gene dataset resolves a monophyletic Fusarium that includes the Fusarium solani species complex</title>
+      <link>rothmi12.github.io/publication/15-fusarium-phylogenomics/</link>
+      <pubDate>2021</pubDate>
+      <guid>rothmi12.github.io/publication/15-fusarium-phylogenomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Soybean (Glycine max) Check Lines for Evaluating Genetic Resistance to Sclerotinia Stem Rot</title>
+      <link>rothmi12.github.io/publication/14-sclerotinia-check-lines/</link>
+      <pubDate>2021</pubDate>
+      <guid>rothmi12.github.io/publication/14-sclerotinia-check-lines/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Wheat Grain and Straw Yield, Grain Quality, and Disease Benefits Associated with Increased Management Intensity</title>
