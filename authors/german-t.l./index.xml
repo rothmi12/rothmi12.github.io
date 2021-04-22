@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Groves, C.L. | Mitchell G. Roth</title>
-    <link>rothmi12.github.io/authors/groves-c.l./</link>
-      <atom:link href="rothmi12.github.io/authors/groves-c.l./index.xml" rel="self" type="application/rss+xml" />
-    <description>Groves, C.L.</description>
+    <title>German, T.L. | Mitchell G. Roth</title>
+    <link>rothmi12.github.io/authors/german-t.l./</link>
+      <atom:link href="rothmi12.github.io/authors/german-t.l./index.xml" rel="self" type="application/rss+xml" />
+    <description>German, T.L.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Groves, C.L.</title>
-      <link>rothmi12.github.io/authors/groves-c.l./</link>
+      <title>German, T.L.</title>
+      <link>rothmi12.github.io/authors/german-t.l./</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>rothmi12.github.io/publication/16-tsv-qpcr/</link>
       <pubDate>2021</pubDate>
       <guid>rothmi12.github.io/publication/16-tsv-qpcr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identification of Soybean (Glycine max) Check Lines for Evaluating Genetic Resistance to Sclerotinia Stem Rot</title>
-      <link>rothmi12.github.io/publication/14-sclerotinia-check-lines/</link>
-      <pubDate>2021</pubDate>
-      <guid>rothmi12.github.io/publication/14-sclerotinia-check-lines/</guid>
       <description></description>
     </item>
     

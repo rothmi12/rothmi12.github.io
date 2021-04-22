@@ -5,12 +5,20 @@
     <link>rothmi12.github.io/publication/</link>
       <atom:link href="rothmi12.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>rothmi12.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Sensitive and specific qPCR and nested RT-PCR assays for the detection of Tobacco streak virus in soybean</title>
+      <link>rothmi12.github.io/publication/16-tsv-qpcr/</link>
+      <pubDate>2021</pubDate>
+      <guid>rothmi12.github.io/publication/16-tsv-qpcr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Phylogenomic analysis of a 55.1 kb 19-gene dataset resolves a monophyletic Fusarium that includes the Fusarium solani species complex</title>
