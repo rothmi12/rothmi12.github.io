@@ -101,6 +101,32 @@
     </item>
     
     <item>
+      <title>Exploring Fungal-Nematode Interactions in Disease Complexes</title>
+      <link>rothmi12.github.io/project/5_fungal_nematode_interactions/</link>
+      <pubDate>2021</pubDate>
+      <guid>rothmi12.github.io/project/5_fungal_nematode_interactions/</guid>
+      <description>&lt;p&gt;Multiple disease complexes include plant pathogenic fungi and plant parasitic nematodes ( 
+&lt;a href=&#34;https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1046/j.1365-3059.2002.00785.x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Back et al. 2002&lt;/a&gt; ), including Verticillium dahliae with Pratylenchus nematodes in wilt disease of mint ( 
+&lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211508&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wheeler et al. 2019&lt;/a&gt; ), Rhizoctonia solani and Ditylenchus dipsaci in sugar beet crown and root rot ( 
+&lt;a href=&#34;https://www.jstor.org/stable/43229283&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hillnhütter et al. 2011&lt;/a&gt; ), and Fusarium solani and Meloidogyne incognita in root rot of lentil ( 
+&lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/03235408.2018.1476116&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ahmed and Shahab 2018&lt;/a&gt; ). Similarly, it has been suggested that soybean sudden death syndrome (SDS) is a disease complex composed of &lt;em&gt;F. virguliforme&lt;/em&gt; and SCN, where SCN increases SDS synergistically with &lt;em&gt;F. virguliforme&lt;/em&gt; ( 
+&lt;a href=&#34;https://apsjournals.apsnet.org/doi/full/10.1094/PHYTO-02-19-0040-R&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Roth et al. 2019&lt;/a&gt;; 
+&lt;a href=&#34;https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-96-0763&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xing and Westphal 2013&lt;/a&gt; ). Similarly, &lt;em&gt;Macrophomina phaseolina&lt;/em&gt;, the causal agent of charcoal rot in soybean, is commonly found in the same fields as SCN and have a significant interaction on soybean yield ( 
+&lt;a href=&#34;https://apsjournals.apsnet.org/doi/10.1094/PHYTO-03-19-0087-R&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lopez-Nicora et al. 2020&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;However, the exact role of SCN in these disease complexes in soybean remain unknown. Some hypotheses include nematodes vectoring fungi into plants, nematodes creating wounds that are easier for fungi to colonize, and altering defense gene expression that benefits fungal invasion. Using fluorescently labelled strains of fungi and time-course microscopy, we are investigating the way fungi and nematodes interact outside of a plant host. Further experiments include the plant host will also help elucidate how pathogen interactions affect plant disease severity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigating the Chestnut Microbiome for Causes of Graft Failure</title>
+      <link>rothmi12.github.io/project/6_chestnut_microbiome/</link>
+      <pubDate>2021</pubDate>
+      <guid>rothmi12.github.io/project/6_chestnut_microbiome/</guid>
+      <description>&lt;p&gt;Chestnut species in the Castanea genus harbor a tremendous amount of genetic diversity among trees. This diversity contributes to differences in taste, size, quality, disease resistance, time to maturity, and yield across individual plants in an orchard, making it difficult to commercially farm. In apple, consistency in these qualities is achieved through grafting, which allows for clonal propagation of desirable apple varieties. Grafting success rates in apple are frequently greater than 90%, while chestnut grafting success rates are unacceptably low, frequently less than 50% and often as low as 10%. Chestnuts also harbor a great diversity of bacterial and fungal endophytes inside of the woody tissues. The goal of this project is to gain a deeper understanding of what fungal and bacterial species are present in chestnut trees before, during, and after grafting. We are using a high-throughput DNA sequencing approach to identify unique microbial DNA sequences, revealing the identity and abundance of all microbes in a single chestnut graft sample. We hypothesize that wounding and plant stress responses associated with the grafting process influence the abundance of specific microbes within a chestnut graft. This shift in abundance may allow one of these endophytes that are naturally present in a healthy chestnut tree to transition into a pathogenic phase, resulting in graft failure. With this information on the chestnut microbiome associated with grafting, we intend to test multiple biocontrol agents for their ability to suppress changes in the microbe abundance, ultimately improving grafting success rates.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Wheat Grain and Straw Yield, Grain Quality, and Disease Benefits Associated with Increased Management Intensity</title>
       <link>rothmi12.github.io/publication/13-wheat-management/</link>
       <pubDate>2020</pubDate>
@@ -189,19 +215,6 @@
       <pubDate>2019</pubDate>
       <guid>rothmi12.github.io/publication/5-laser-ablation-tomography/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Engineering the Phenylpropanoid Pathway for Disease Resistance</title>
-      <link>rothmi12.github.io/project/1_soybean_phenylpropanoid/</link>
-      <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/project/1_soybean_phenylpropanoid/</guid>
-      <description>&lt;p&gt;Most commercial soybean varieties are highly susceptible to &lt;em&gt;Sclerotinia sclerotiorum&lt;/em&gt;, which causes the soybean disease known as Sclerotinia stem rot, or more commonly referred to as &amp;ldquo;white mold&amp;rdquo;. A recent study by Ranjan et al (
-&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13082&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019&lt;/a&gt;) showed that two recombinant inbred soybean lines from the same parentage respond differently when inoculated with &lt;em&gt;Sclerotinia sclerotiorum&lt;/em&gt;, showing either susceptible or resistant phenotypes. Interestingly, the resistant soybean line developed a strong &amp;ldquo;red stem&amp;rdquo; phenotype (pictured above).&lt;/p&gt;
-&lt;p&gt;Comparing genetic responses between the two soybean lines indicated that a downregulation of genes in the phenylpropanoid pathway may be a key to mounting a resistance response. Additional metabolomics efforts showed that phenylpropanoid intermediates accumulated higher in the resistant line than the susceptible line. Finally, these phenylpropanoid intermediate compounds were shown to have anti-fungal activity, specifically targeting ergosterol biosynthesis.
-&lt;img src=&#34;phenylpropanoid_pathway.png&#34; alt=&#34;Phenylpropanoid pathway, from Ranjan et al. 2019&#34;&gt;
-My work is continuing on this project by identifying key genetic components of the phenylpropanoid pathway in soybean and using a gene silencing approach to knock down each phenylpropanoid gene candidate. Using this approach, I hope to validate the role of each gene in the phenylpropanoid pathway and identify targets that can be silenced to specifically lead to accumulating anti-fungal phenylpropanoid intermediates.&lt;/p&gt;
-</description>
     </item>
     
     <item>
