@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Napieralski, S. | Mitchell G. Roth</title>
-    <link>rothmi12.github.io/authors/napieralski-s./</link>
-      <atom:link href="rothmi12.github.io/authors/napieralski-s./index.xml" rel="self" type="application/rss+xml" />
+    <title>Napieralski, S. | The Roth Lab</title>
+    <link>molecularmycology.com/authors/napieralski-s./</link>
+      <atom:link href="molecularmycology.com/authors/napieralski-s./index.xml" rel="self" type="application/rss+xml" />
     <description>Napieralski, S.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Napieralski, S.</title>
-      <link>rothmi12.github.io/authors/napieralski-s./</link>
+      <link>molecularmycology.com/authors/napieralski-s./</link>
     </image>
     
     <item>
       <title>Fluopyram Suppresses Population Densities of Heterodera glycines in Field and Greenhouse Studies in Michigan</title>
-      <link>rothmi12.github.io/publication/11-fluopyram-scn/</link>
+      <link>molecularmycology.com/publication/11-fluopyram-scn/</link>
       <pubDate>2020</pubDate>
-      <guid>rothmi12.github.io/publication/11-fluopyram-scn/</guid>
+      <guid>molecularmycology.com/publication/11-fluopyram-scn/</guid>
       <description></description>
     </item>
     

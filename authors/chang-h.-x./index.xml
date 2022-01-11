@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chang, H.-X. | Mitchell G. Roth</title>
-    <link>rothmi12.github.io/authors/chang-h.-x./</link>
-      <atom:link href="rothmi12.github.io/authors/chang-h.-x./index.xml" rel="self" type="application/rss+xml" />
+    <title>Chang, H.-X. | The Roth Lab</title>
+    <link>molecularmycology.com/authors/chang-h.-x./</link>
+      <atom:link href="molecularmycology.com/authors/chang-h.-x./index.xml" rel="self" type="application/rss+xml" />
     <description>Chang, H.-X.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Chang, H.-X.</title>
-      <link>rothmi12.github.io/authors/chang-h.-x./</link>
+      <link>molecularmycology.com/authors/chang-h.-x./</link>
     </image>
     
     <item>
       <title>Fluopyram sensitivity and functional characterization of SdhB in the Fusarium solani species complex causing soybean sudden death syndrome</title>
-      <link>rothmi12.github.io/publication/4-fusarium-sdhb/</link>
+      <link>molecularmycology.com/publication/4-fusarium-sdhb/</link>
       <pubDate>2018</pubDate>
-      <guid>rothmi12.github.io/publication/4-fusarium-sdhb/</guid>
+      <guid>molecularmycology.com/publication/4-fusarium-sdhb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integration of Sudden Death Syndrome Resistance Loci in the Soybean Genome</title>
-      <link>rothmi12.github.io/publication/2-tag-review/</link>
+      <link>molecularmycology.com/publication/2-tag-review/</link>
       <pubDate>2018</pubDate>
-      <guid>rothmi12.github.io/publication/2-tag-review/</guid>
+      <guid>molecularmycology.com/publication/2-tag-review/</guid>
       <description></description>
     </item>
     

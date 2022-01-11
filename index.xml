@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mitchell G. Roth</title>
-    <link>rothmi12.github.io/</link>
-      <atom:link href="rothmi12.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mitchell G. Roth</description>
+    <title>The Roth Lab</title>
+    <link>molecularmycology.com/</link>
+      <atom:link href="molecularmycology.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>The Roth Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Mitchell G. Roth</title>
-      <link>rothmi12.github.io/</link>
+      <title>The Roth Lab</title>
+      <link>molecularmycology.com/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>rothmi12.github.io/courses/example/example1/</link>
+      <link>molecularmycology.com/courses/example/example1/</link>
       <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/courses/example/example1/</guid>
+      <guid>molecularmycology.com/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>rothmi12.github.io/courses/example/example2/</link>
+      <link>molecularmycology.com/courses/example/example2/</link>
       <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/courses/example/example2/</guid>
+      <guid>molecularmycology.com/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>rothmi12.github.io/talk/example/</link>
+      <link>molecularmycology.com/talk/example/</link>
       <pubDate>2030</pubDate>
-      <guid>rothmi12.github.io/talk/example/</guid>
+      <guid>molecularmycology.com/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -78,33 +78,33 @@
     
     <item>
       <title>Sensitive and specific qPCR and nested RT-PCR assays for the detection of Tobacco streak virus in soybean</title>
-      <link>rothmi12.github.io/publication/16-tsv-qpcr/</link>
+      <link>molecularmycology.com/publication/16-tsv-qpcr/</link>
       <pubDate>2021</pubDate>
-      <guid>rothmi12.github.io/publication/16-tsv-qpcr/</guid>
+      <guid>molecularmycology.com/publication/16-tsv-qpcr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phylogenomic analysis of a 55.1 kb 19-gene dataset resolves a monophyletic Fusarium that includes the Fusarium solani species complex</title>
-      <link>rothmi12.github.io/publication/15-fusarium-phylogenomics/</link>
+      <link>molecularmycology.com/publication/15-fusarium-phylogenomics/</link>
       <pubDate>2021</pubDate>
-      <guid>rothmi12.github.io/publication/15-fusarium-phylogenomics/</guid>
+      <guid>molecularmycology.com/publication/15-fusarium-phylogenomics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of Soybean (Glycine max) Check Lines for Evaluating Genetic Resistance to Sclerotinia Stem Rot</title>
-      <link>rothmi12.github.io/publication/14-sclerotinia-check-lines/</link>
+      <link>molecularmycology.com/publication/14-sclerotinia-check-lines/</link>
       <pubDate>2021</pubDate>
-      <guid>rothmi12.github.io/publication/14-sclerotinia-check-lines/</guid>
+      <guid>molecularmycology.com/publication/14-sclerotinia-check-lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Fungal-Nematode Interactions in Disease Complexes</title>
-      <link>rothmi12.github.io/project/5_fungal_nematode_interactions/</link>
+      <link>molecularmycology.com/project/5_fungal_nematode_interactions/</link>
       <pubDate>2021</pubDate>
-      <guid>rothmi12.github.io/project/5_fungal_nematode_interactions/</guid>
+      <guid>molecularmycology.com/project/5_fungal_nematode_interactions/</guid>
       <description>&lt;p&gt;Multiple disease complexes include plant pathogenic fungi and plant parasitic nematodes ( 
 &lt;a href=&#34;https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1046/j.1365-3059.2002.00785.x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Back et al. 2002&lt;/a&gt; ), including Verticillium dahliae with Pratylenchus nematodes in wilt disease of mint ( 
 &lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211508&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wheeler et al. 2019&lt;/a&gt; ), Rhizoctonia solani and Ditylenchus dipsaci in sugar beet crown and root rot ( 
@@ -119,42 +119,42 @@
     
     <item>
       <title>Investigating the Chestnut Microbiome for Causes of Graft Failure</title>
-      <link>rothmi12.github.io/project/6_chestnut_microbiome/</link>
+      <link>molecularmycology.com/project/6_chestnut_microbiome/</link>
       <pubDate>2021</pubDate>
-      <guid>rothmi12.github.io/project/6_chestnut_microbiome/</guid>
+      <guid>molecularmycology.com/project/6_chestnut_microbiome/</guid>
       <description>&lt;p&gt;Chestnut species in the Castanea genus harbor a tremendous amount of genetic diversity among trees. This diversity contributes to differences in taste, size, quality, disease resistance, time to maturity, and yield across individual plants in an orchard, making it difficult to commercially farm. In apple, consistency in these qualities is achieved through grafting, which allows for clonal propagation of desirable apple varieties. Grafting success rates in apple are frequently greater than 90%, while chestnut grafting success rates are unacceptably low, frequently less than 50% and often as low as 10%. Chestnuts also harbor a great diversity of bacterial and fungal endophytes inside of the woody tissues. The goal of this project is to gain a deeper understanding of what fungal and bacterial species are present in chestnut trees before, during, and after grafting. We are using a high-throughput DNA sequencing approach to identify unique microbial DNA sequences, revealing the identity and abundance of all microbes in a single chestnut graft sample. We hypothesize that wounding and plant stress responses associated with the grafting process influence the abundance of specific microbes within a chestnut graft. This shift in abundance may allow one of these endophytes that are naturally present in a healthy chestnut tree to transition into a pathogenic phase, resulting in graft failure. With this information on the chestnut microbiome associated with grafting, we intend to test multiple biocontrol agents for their ability to suppress changes in the microbe abundance, ultimately improving grafting success rates.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Wheat Grain and Straw Yield, Grain Quality, and Disease Benefits Associated with Increased Management Intensity</title>
-      <link>rothmi12.github.io/publication/13-wheat-management/</link>
+      <link>molecularmycology.com/publication/13-wheat-management/</link>
       <pubDate>2020</pubDate>
-      <guid>rothmi12.github.io/publication/13-wheat-management/</guid>
+      <guid>molecularmycology.com/publication/13-wheat-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrated Management of Important Soybean Pathogens of the United States in Changing Climate</title>
-      <link>rothmi12.github.io/publication/12-ipm-soybean-diseases/</link>
+      <link>molecularmycology.com/publication/12-ipm-soybean-diseases/</link>
       <pubDate>2020</pubDate>
-      <guid>rothmi12.github.io/publication/12-ipm-soybean-diseases/</guid>
+      <guid>molecularmycology.com/publication/12-ipm-soybean-diseases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluopyram Suppresses Population Densities of Heterodera glycines in Field and Greenhouse Studies in Michigan</title>
-      <link>rothmi12.github.io/publication/11-fluopyram-scn/</link>
+      <link>molecularmycology.com/publication/11-fluopyram-scn/</link>
       <pubDate>2020</pubDate>
-      <guid>rothmi12.github.io/publication/11-fluopyram-scn/</guid>
+      <guid>molecularmycology.com/publication/11-fluopyram-scn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying virulence factors in Sclerotinia sclerotiorum</title>
-      <link>rothmi12.github.io/project/3_sclerotinia_effectors/</link>
+      <link>molecularmycology.com/project/3_sclerotinia_effectors/</link>
       <pubDate>2020</pubDate>
-      <guid>rothmi12.github.io/project/3_sclerotinia_effectors/</guid>
+      <guid>molecularmycology.com/project/3_sclerotinia_effectors/</guid>
       <description>&lt;p&gt;Microbes and plants interact by releasing recognizing different molecules. In plant pathology, pathogen-secreted molecules are often referred to as &amp;ldquo;effectors&amp;rdquo; because they effect plant physiology to establish an infection. However, pathogens also secrete factors that are not always classified as effectors, such as cell-wall degrading enzymes and secondary metabolites (reviewed in 
 &lt;a href=&#34;https://doi.org/10.1146/annurev.phyto.112408.132637&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stergiopoulos and de Wit 2009&lt;/a&gt;). Despite their categorization, the mechanisms by which pathogen-secreted molecules effect plants are very interesting to many researchers like me.&lt;/p&gt;
 &lt;p&gt;Using a time-course transcriptome dataset, I have helped our research group identify candidate effector genes in &lt;em&gt;S. sclerotiorum&lt;/em&gt;. Additionally, a CRISPR/Cas9 mediated transformation method developed by colleagues have facilitated the rapid, efficient transformation of &lt;em&gt;S. sclerotiorum&lt;/em&gt;, allowing for characterization of genes involved in fungal development and pathogenicity on soybean and other plants. One effector that I am currently characterizes is particularly interesting because it appears to have two functions, able to act as a cell wall degrading enzyme &lt;em&gt;and&lt;/em&gt; as an inducer of plant cell death.&lt;/p&gt;
@@ -163,17 +163,17 @@
     
     <item>
       <title>Diagnostic qPCR Assay to Detect Fusarium brasiliense, a causal agent of soybean Sudden Death Syndrome and Root Rot of Dry Bean</title>
-      <link>rothmi12.github.io/publication/10-f-brasiliense-qpcr/</link>
+      <link>molecularmycology.com/publication/10-f-brasiliense-qpcr/</link>
       <pubDate>2020</pubDate>
-      <guid>rothmi12.github.io/publication/10-f-brasiliense-qpcr/</guid>
+      <guid>molecularmycology.com/publication/10-f-brasiliense-qpcr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R-gene Mediated Susceptibility to White Mold in Soybean</title>
-      <link>rothmi12.github.io/project/2_soybean_rgene_susceptibility/</link>
+      <link>molecularmycology.com/project/2_soybean_rgene_susceptibility/</link>
       <pubDate>2020</pubDate>
-      <guid>rothmi12.github.io/project/2_soybean_rgene_susceptibility/</guid>
+      <guid>molecularmycology.com/project/2_soybean_rgene_susceptibility/</guid>
       <description>&lt;p&gt;The plant immune system is considered to be innate rather than adaptive. Part of this innate immune system is the presence of membrane bound proteins that can recognize specific molecules in the surrounding environment. These genes go by many different names, but are most commonly referred to as R-genes, where &amp;ldquo;R&amp;rdquo; stands for either &amp;ldquo;resistance&amp;rdquo; or &amp;ldquo;receptor&amp;rdquo;. When an R-gene recognizes certain molecules from plant pathogens, the R-gene can initiate defense signals to prevent the pathogen from infecting the plant. These defense signals often culminate in localized plant cell death - sacrificing part of the plant to save the whole organism.&lt;/p&gt;
 &lt;p&gt;However, some fungal plant pathogens specifically feed on dead plant tissue. Therefore, plant cell death is exactly what the fungal pathogen wants. Therefore, some necrotrophic fungi purposely release molecules that can be recognzied by R-genes, triggering localized plant cell death. This concept is referred to as the inverse gene-for-gene model (pictured above). Key examples of this have been shown in two different fungal diseases of wheat; tan spot (Ciuffetti et al 
 &lt;a href=&#34;https://doi.org/10.1111/j.1469-8137.2010.03362.x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2010&lt;/a&gt;), and Stagonospora nodorum blotch (Friesen and Faris 
@@ -187,49 +187,49 @@
     
     <item>
       <title>Convergent evolution of C239S mutation in Pythium spp. β-tubulin coincides with inherent insensitivity to ethaboxam</title>
-      <link>rothmi12.github.io/publication/6-c239s-ethaboxam/</link>
+      <link>molecularmycology.com/publication/6-c239s-ethaboxam/</link>
       <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/publication/6-c239s-ethaboxam/</guid>
+      <guid>molecularmycology.com/publication/6-c239s-ethaboxam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Next Generation Sequencing Identification of Fungal Communities Within the Tar Spot Complex of Corn in Michigan</title>
-      <link>rothmi12.github.io/publication/9-tar-spot-phytobiomes/</link>
+      <link>molecularmycology.com/publication/9-tar-spot-phytobiomes/</link>
       <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/publication/9-tar-spot-phytobiomes/</guid>
+      <guid>molecularmycology.com/publication/9-tar-spot-phytobiomes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Soybean Yield and Sudden Death Syndrome Development using At-planting Risk Factors</title>
-      <link>rothmi12.github.io/publication/7-sds-risk-prediction/</link>
+      <link>molecularmycology.com/publication/7-sds-risk-prediction/</link>
       <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/publication/7-sds-risk-prediction/</guid>
+      <guid>molecularmycology.com/publication/7-sds-risk-prediction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laser Ablation Tomography for Visualization of Root Colonization by Edaphic Organisms</title>
-      <link>rothmi12.github.io/publication/5-laser-ablation-tomography/</link>
+      <link>molecularmycology.com/publication/5-laser-ablation-tomography/</link>
       <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/publication/5-laser-ablation-tomography/</guid>
+      <guid>molecularmycology.com/publication/5-laser-ablation-tomography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Protoplast Generation and Transformation Methods for Soybean Sudden Death Syndrome Causal Agents Fusarium virguliforme and F. brasiliense</title>
-      <link>rothmi12.github.io/publication/8-fusarium-transformation/</link>
+      <link>molecularmycology.com/publication/8-fusarium-transformation/</link>
       <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/publication/8-fusarium-transformation/</guid>
+      <guid>molecularmycology.com/publication/8-fusarium-transformation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>rothmi12.github.io/slides/example/</link>
+      <link>molecularmycology.com/slides/example/</link>
       <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/slides/example/</guid>
+      <guid>molecularmycology.com/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -360,9 +360,9 @@ Three
     
     <item>
       <title>Revealing Mechanisms of Induction of Soybean Sudden Death Syndrome</title>
-      <link>rothmi12.github.io/project/4_sds_effectors/</link>
+      <link>molecularmycology.com/project/4_sds_effectors/</link>
       <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/project/4_sds_effectors/</guid>
+      <guid>molecularmycology.com/project/4_sds_effectors/</guid>
       <description>&lt;p&gt;Microbes and plants interact by releasing recognizing different molecules. In plant pathology, pathogen-secreted molecules are often referred to as &amp;ldquo;effectors&amp;rdquo; because they effect plant physiology to establish an infection. However, pathogens also secrete factors that are not always classified as effectors, such as cell-wall degrading enzymes and secondary metabolites (reviewed in 
 &lt;a href=&#34;https://doi.org/10.1146/annurev.phyto.112408.132637&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stergiopoulos and de Wit 2009&lt;/a&gt;). Despite their categorization, the mechanisms by which pathogen-secreted molecules effect plants are very interesting to many researchers like me.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Fusarium virguliforme&lt;/em&gt;, causal agent of soybean sudden death syndrome (SDS) releases multiple effector proteins during infection (
@@ -374,25 +374,25 @@ Three
     
     <item>
       <title>Temporal dynamics of Fusarium virguliforme colonization of soybean roots</title>
-      <link>rothmi12.github.io/publication/3-temporal-dynamics/</link>
+      <link>molecularmycology.com/publication/3-temporal-dynamics/</link>
       <pubDate>2018</pubDate>
-      <guid>rothmi12.github.io/publication/3-temporal-dynamics/</guid>
+      <guid>molecularmycology.com/publication/3-temporal-dynamics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluopyram sensitivity and functional characterization of SdhB in the Fusarium solani species complex causing soybean sudden death syndrome</title>
-      <link>rothmi12.github.io/publication/4-fusarium-sdhb/</link>
+      <link>molecularmycology.com/publication/4-fusarium-sdhb/</link>
       <pubDate>2018</pubDate>
-      <guid>rothmi12.github.io/publication/4-fusarium-sdhb/</guid>
+      <guid>molecularmycology.com/publication/4-fusarium-sdhb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Brief Overview of Genetic Modification through Metaphors</title>
-      <link>rothmi12.github.io/post/1_gmo-metaphors/</link>
+      <link>molecularmycology.com/post/1_gmo-metaphors/</link>
       <pubDate>2018</pubDate>
-      <guid>rothmi12.github.io/post/1_gmo-metaphors/</guid>
+      <guid>molecularmycology.com/post/1_gmo-metaphors/</guid>
       <description>&lt;p&gt;Hey everyone, thanks for stumbling on this blog. This is my first post, and it really stems from a discussion I had with a fellow student recently about herbicides in agriculture (more on that topic in a later post). As scientists, both of us have studied the intricacies of genetics and understand how genetic modifications work, and how they can change an organism&amp;rsquo;s features. It&amp;rsquo;s really fascinating how genetics works, and the powerful potential it has to solve problems, both inside and outside of agriculture.&lt;/p&gt;
 &lt;p&gt;All living things (plants, animals, fungi, etc.) have DNA. A common DNA analogy is with blueprints. DNA is similar to the blueprint of a house. DNA is not a house, but it has all of the information needed to build one. Many blueprints have common features, like a roof, a basement, and a front door. Similarly, some DNA is common among all living things. Some blueprints have more specific features found in more specific groups of houses like an attached garage, walk in closets, or hot tub. Similarly, some DNA is common among groups of organisms, like plants or animals, but not both. Finally, some blueprints have specific instructions for something so unique, it is only found in three or four houses in the world. DNA that is common only to a few unique species is also this way.&lt;/p&gt;
 &lt;p&gt;So what&amp;rsquo;s with all the fuss about genetic modifications? People change blueprints to houses all the time. Well, I think it boils down to this: blueprints, when executed,  form a stationary, permanent, non-being object. DNA, when executed, forms a living thing that can grow, develop, react, and respond. Since an executed DNA life-form takes on all of these active characteristics, it is considered &amp;ldquo;natural&amp;rdquo;, and ought not be changed or tainted. But the fact of the matter is, blueprints can be changed, and the result of the change can significantly impact the outcome. Adding a crocodile-filled moat around a house might increase the property value to some who value security, but it may decrease property value to others who value the safety of their children playing in the yard. Changes to DNA need to be viewed the same way - how will the outcome be beneficial, and how might it be harmful?&lt;/p&gt;
@@ -407,17 +407,17 @@ Three
     
     <item>
       <title>Integration of Sudden Death Syndrome Resistance Loci in the Soybean Genome</title>
-      <link>rothmi12.github.io/publication/2-tag-review/</link>
+      <link>molecularmycology.com/publication/2-tag-review/</link>
       <pubDate>2018</pubDate>
-      <guid>rothmi12.github.io/publication/2-tag-review/</guid>
+      <guid>molecularmycology.com/publication/2-tag-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MultispeQ Beta: a tool for large-scale plant phenotyping connected to the open PhotosynQ network</title>
-      <link>rothmi12.github.io/publication/1-multispeq/</link>
+      <link>molecularmycology.com/publication/1-multispeq/</link>
       <pubDate>2016</pubDate>
-      <guid>rothmi12.github.io/publication/1-multispeq/</guid>
+      <guid>molecularmycology.com/publication/1-multispeq/</guid>
       <description></description>
     </item>
     

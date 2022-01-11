@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mueller, B. | Mitchell G. Roth</title>
-    <link>rothmi12.github.io/authors/mueller-b./</link>
-      <atom:link href="rothmi12.github.io/authors/mueller-b./index.xml" rel="self" type="application/rss+xml" />
+    <title>Mueller, B. | The Roth Lab</title>
+    <link>molecularmycology.com/authors/mueller-b./</link>
+      <atom:link href="molecularmycology.com/authors/mueller-b./index.xml" rel="self" type="application/rss+xml" />
     <description>Mueller, B.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Mueller, B.</title>
-      <link>rothmi12.github.io/authors/mueller-b./</link>
+      <link>molecularmycology.com/authors/mueller-b./</link>
     </image>
     
     <item>
       <title>Identification of Soybean (Glycine max) Check Lines for Evaluating Genetic Resistance to Sclerotinia Stem Rot</title>
-      <link>rothmi12.github.io/publication/14-sclerotinia-check-lines/</link>
+      <link>molecularmycology.com/publication/14-sclerotinia-check-lines/</link>
       <pubDate>2021</pubDate>
-      <guid>rothmi12.github.io/publication/14-sclerotinia-check-lines/</guid>
+      <guid>molecularmycology.com/publication/14-sclerotinia-check-lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wheat Grain and Straw Yield, Grain Quality, and Disease Benefits Associated with Increased Management Intensity</title>
-      <link>rothmi12.github.io/publication/13-wheat-management/</link>
+      <link>molecularmycology.com/publication/13-wheat-management/</link>
       <pubDate>2020</pubDate>
-      <guid>rothmi12.github.io/publication/13-wheat-management/</guid>
+      <guid>molecularmycology.com/publication/13-wheat-management/</guid>
       <description></description>
     </item>
     

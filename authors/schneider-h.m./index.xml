@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Schneider, H.M. | Mitchell G. Roth</title>
-    <link>rothmi12.github.io/authors/schneider-h.m./</link>
-      <atom:link href="rothmi12.github.io/authors/schneider-h.m./index.xml" rel="self" type="application/rss+xml" />
+    <title>Schneider, H.M. | The Roth Lab</title>
+    <link>molecularmycology.com/authors/schneider-h.m./</link>
+      <atom:link href="molecularmycology.com/authors/schneider-h.m./index.xml" rel="self" type="application/rss+xml" />
     <description>Schneider, H.M.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Schneider, H.M.</title>
-      <link>rothmi12.github.io/authors/schneider-h.m./</link>
+      <link>molecularmycology.com/authors/schneider-h.m./</link>
     </image>
     
     <item>
       <title>Laser Ablation Tomography for Visualization of Root Colonization by Edaphic Organisms</title>
-      <link>rothmi12.github.io/publication/5-laser-ablation-tomography/</link>
+      <link>molecularmycology.com/publication/5-laser-ablation-tomography/</link>
       <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/publication/5-laser-ablation-tomography/</guid>
+      <guid>molecularmycology.com/publication/5-laser-ablation-tomography/</guid>
       <description></description>
     </item>
     

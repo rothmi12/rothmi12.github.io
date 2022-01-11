@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wang, J. | Mitchell G. Roth</title>
-    <link>rothmi12.github.io/authors/wang-j./</link>
-      <atom:link href="rothmi12.github.io/authors/wang-j./index.xml" rel="self" type="application/rss+xml" />
+    <title>Wang, J. | The Roth Lab</title>
+    <link>molecularmycology.com/authors/wang-j./</link>
+      <atom:link href="molecularmycology.com/authors/wang-j./index.xml" rel="self" type="application/rss+xml" />
     <description>Wang, J.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Wang, J.</title>
-      <link>rothmi12.github.io/authors/wang-j./</link>
+      <link>molecularmycology.com/authors/wang-j./</link>
     </image>
     
     <item>
       <title>Predicting Soybean Yield and Sudden Death Syndrome Development using At-planting Risk Factors</title>
-      <link>rothmi12.github.io/publication/7-sds-risk-prediction/</link>
+      <link>molecularmycology.com/publication/7-sds-risk-prediction/</link>
       <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/publication/7-sds-risk-prediction/</guid>
+      <guid>molecularmycology.com/publication/7-sds-risk-prediction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temporal dynamics of Fusarium virguliforme colonization of soybean roots</title>
-      <link>rothmi12.github.io/publication/3-temporal-dynamics/</link>
+      <link>molecularmycology.com/publication/3-temporal-dynamics/</link>
       <pubDate>2018</pubDate>
-      <guid>rothmi12.github.io/publication/3-temporal-dynamics/</guid>
+      <guid>molecularmycology.com/publication/3-temporal-dynamics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluopyram sensitivity and functional characterization of SdhB in the Fusarium solani species complex causing soybean sudden death syndrome</title>
-      <link>rothmi12.github.io/publication/4-fusarium-sdhb/</link>
+      <link>molecularmycology.com/publication/4-fusarium-sdhb/</link>
       <pubDate>2018</pubDate>
-      <guid>rothmi12.github.io/publication/4-fusarium-sdhb/</guid>
+      <guid>molecularmycology.com/publication/4-fusarium-sdhb/</guid>
       <description></description>
     </item>
     

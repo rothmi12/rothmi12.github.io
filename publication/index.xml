@@ -1,142 +1,142 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Mitchell G. Roth</title>
-    <link>rothmi12.github.io/publication/</link>
-      <atom:link href="rothmi12.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | The Roth Lab</title>
+    <link>molecularmycology.com/publication/</link>
+      <atom:link href="molecularmycology.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
-      <link>rothmi12.github.io/publication/</link>
+      <link>molecularmycology.com/publication/</link>
     </image>
     
     <item>
       <title>Sensitive and specific qPCR and nested RT-PCR assays for the detection of Tobacco streak virus in soybean</title>
-      <link>rothmi12.github.io/publication/16-tsv-qpcr/</link>
+      <link>molecularmycology.com/publication/16-tsv-qpcr/</link>
       <pubDate>2021</pubDate>
-      <guid>rothmi12.github.io/publication/16-tsv-qpcr/</guid>
+      <guid>molecularmycology.com/publication/16-tsv-qpcr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phylogenomic analysis of a 55.1 kb 19-gene dataset resolves a monophyletic Fusarium that includes the Fusarium solani species complex</title>
-      <link>rothmi12.github.io/publication/15-fusarium-phylogenomics/</link>
+      <link>molecularmycology.com/publication/15-fusarium-phylogenomics/</link>
       <pubDate>2021</pubDate>
-      <guid>rothmi12.github.io/publication/15-fusarium-phylogenomics/</guid>
+      <guid>molecularmycology.com/publication/15-fusarium-phylogenomics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of Soybean (Glycine max) Check Lines for Evaluating Genetic Resistance to Sclerotinia Stem Rot</title>
-      <link>rothmi12.github.io/publication/14-sclerotinia-check-lines/</link>
+      <link>molecularmycology.com/publication/14-sclerotinia-check-lines/</link>
       <pubDate>2021</pubDate>
-      <guid>rothmi12.github.io/publication/14-sclerotinia-check-lines/</guid>
+      <guid>molecularmycology.com/publication/14-sclerotinia-check-lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wheat Grain and Straw Yield, Grain Quality, and Disease Benefits Associated with Increased Management Intensity</title>
-      <link>rothmi12.github.io/publication/13-wheat-management/</link>
+      <link>molecularmycology.com/publication/13-wheat-management/</link>
       <pubDate>2020</pubDate>
-      <guid>rothmi12.github.io/publication/13-wheat-management/</guid>
+      <guid>molecularmycology.com/publication/13-wheat-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrated Management of Important Soybean Pathogens of the United States in Changing Climate</title>
-      <link>rothmi12.github.io/publication/12-ipm-soybean-diseases/</link>
+      <link>molecularmycology.com/publication/12-ipm-soybean-diseases/</link>
       <pubDate>2020</pubDate>
-      <guid>rothmi12.github.io/publication/12-ipm-soybean-diseases/</guid>
+      <guid>molecularmycology.com/publication/12-ipm-soybean-diseases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluopyram Suppresses Population Densities of Heterodera glycines in Field and Greenhouse Studies in Michigan</title>
-      <link>rothmi12.github.io/publication/11-fluopyram-scn/</link>
+      <link>molecularmycology.com/publication/11-fluopyram-scn/</link>
       <pubDate>2020</pubDate>
-      <guid>rothmi12.github.io/publication/11-fluopyram-scn/</guid>
+      <guid>molecularmycology.com/publication/11-fluopyram-scn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diagnostic qPCR Assay to Detect Fusarium brasiliense, a causal agent of soybean Sudden Death Syndrome and Root Rot of Dry Bean</title>
-      <link>rothmi12.github.io/publication/10-f-brasiliense-qpcr/</link>
+      <link>molecularmycology.com/publication/10-f-brasiliense-qpcr/</link>
       <pubDate>2020</pubDate>
-      <guid>rothmi12.github.io/publication/10-f-brasiliense-qpcr/</guid>
+      <guid>molecularmycology.com/publication/10-f-brasiliense-qpcr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convergent evolution of C239S mutation in Pythium spp. β-tubulin coincides with inherent insensitivity to ethaboxam</title>
-      <link>rothmi12.github.io/publication/6-c239s-ethaboxam/</link>
+      <link>molecularmycology.com/publication/6-c239s-ethaboxam/</link>
       <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/publication/6-c239s-ethaboxam/</guid>
+      <guid>molecularmycology.com/publication/6-c239s-ethaboxam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Next Generation Sequencing Identification of Fungal Communities Within the Tar Spot Complex of Corn in Michigan</title>
-      <link>rothmi12.github.io/publication/9-tar-spot-phytobiomes/</link>
+      <link>molecularmycology.com/publication/9-tar-spot-phytobiomes/</link>
       <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/publication/9-tar-spot-phytobiomes/</guid>
+      <guid>molecularmycology.com/publication/9-tar-spot-phytobiomes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Soybean Yield and Sudden Death Syndrome Development using At-planting Risk Factors</title>
-      <link>rothmi12.github.io/publication/7-sds-risk-prediction/</link>
+      <link>molecularmycology.com/publication/7-sds-risk-prediction/</link>
       <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/publication/7-sds-risk-prediction/</guid>
+      <guid>molecularmycology.com/publication/7-sds-risk-prediction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laser Ablation Tomography for Visualization of Root Colonization by Edaphic Organisms</title>
-      <link>rothmi12.github.io/publication/5-laser-ablation-tomography/</link>
+      <link>molecularmycology.com/publication/5-laser-ablation-tomography/</link>
       <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/publication/5-laser-ablation-tomography/</guid>
+      <guid>molecularmycology.com/publication/5-laser-ablation-tomography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Protoplast Generation and Transformation Methods for Soybean Sudden Death Syndrome Causal Agents Fusarium virguliforme and F. brasiliense</title>
-      <link>rothmi12.github.io/publication/8-fusarium-transformation/</link>
+      <link>molecularmycology.com/publication/8-fusarium-transformation/</link>
       <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/publication/8-fusarium-transformation/</guid>
+      <guid>molecularmycology.com/publication/8-fusarium-transformation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temporal dynamics of Fusarium virguliforme colonization of soybean roots</title>
-      <link>rothmi12.github.io/publication/3-temporal-dynamics/</link>
+      <link>molecularmycology.com/publication/3-temporal-dynamics/</link>
       <pubDate>2018</pubDate>
-      <guid>rothmi12.github.io/publication/3-temporal-dynamics/</guid>
+      <guid>molecularmycology.com/publication/3-temporal-dynamics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluopyram sensitivity and functional characterization of SdhB in the Fusarium solani species complex causing soybean sudden death syndrome</title>
-      <link>rothmi12.github.io/publication/4-fusarium-sdhb/</link>
+      <link>molecularmycology.com/publication/4-fusarium-sdhb/</link>
       <pubDate>2018</pubDate>
-      <guid>rothmi12.github.io/publication/4-fusarium-sdhb/</guid>
+      <guid>molecularmycology.com/publication/4-fusarium-sdhb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integration of Sudden Death Syndrome Resistance Loci in the Soybean Genome</title>
-      <link>rothmi12.github.io/publication/2-tag-review/</link>
+      <link>molecularmycology.com/publication/2-tag-review/</link>
       <pubDate>2018</pubDate>
-      <guid>rothmi12.github.io/publication/2-tag-review/</guid>
+      <guid>molecularmycology.com/publication/2-tag-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MultispeQ Beta: a tool for large-scale plant phenotyping connected to the open PhotosynQ network</title>
-      <link>rothmi12.github.io/publication/1-multispeq/</link>
+      <link>molecularmycology.com/publication/1-multispeq/</link>
       <pubDate>2016</pubDate>
-      <guid>rothmi12.github.io/publication/1-multispeq/</guid>
+      <guid>molecularmycology.com/publication/1-multispeq/</guid>
       <description></description>
     </item>
     

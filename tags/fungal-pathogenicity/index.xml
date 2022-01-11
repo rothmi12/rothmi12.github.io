@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fungal pathogenicity | Mitchell G. Roth</title>
-    <link>rothmi12.github.io/tags/fungal-pathogenicity/</link>
-      <atom:link href="rothmi12.github.io/tags/fungal-pathogenicity/index.xml" rel="self" type="application/rss+xml" />
+    <title>Fungal pathogenicity | The Roth Lab</title>
+    <link>molecularmycology.com/tags/fungal-pathogenicity/</link>
+      <atom:link href="molecularmycology.com/tags/fungal-pathogenicity/index.xml" rel="self" type="application/rss+xml" />
     <description>Fungal pathogenicity</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Fungal pathogenicity</title>
-      <link>rothmi12.github.io/tags/fungal-pathogenicity/</link>
+      <link>molecularmycology.com/tags/fungal-pathogenicity/</link>
     </image>
     
     <item>
       <title>Identifying virulence factors in Sclerotinia sclerotiorum</title>
-      <link>rothmi12.github.io/project/3_sclerotinia_effectors/</link>
+      <link>molecularmycology.com/project/3_sclerotinia_effectors/</link>
       <pubDate>2020</pubDate>
-      <guid>rothmi12.github.io/project/3_sclerotinia_effectors/</guid>
+      <guid>molecularmycology.com/project/3_sclerotinia_effectors/</guid>
       <description>&lt;p&gt;Microbes and plants interact by releasing recognizing different molecules. In plant pathology, pathogen-secreted molecules are often referred to as &amp;ldquo;effectors&amp;rdquo; because they effect plant physiology to establish an infection. However, pathogens also secrete factors that are not always classified as effectors, such as cell-wall degrading enzymes and secondary metabolites (reviewed in 
 &lt;a href=&#34;https://doi.org/10.1146/annurev.phyto.112408.132637&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stergiopoulos and de Wit 2009&lt;/a&gt;). Despite their categorization, the mechanisms by which pathogen-secreted molecules effect plants are very interesting to many researchers like me.&lt;/p&gt;
 &lt;p&gt;Using a time-course transcriptome dataset, I have helped our research group identify candidate effector genes in &lt;em&gt;S. sclerotiorum&lt;/em&gt;. Additionally, a CRISPR/Cas9 mediated transformation method developed by colleagues have facilitated the rapid, efficient transformation of &lt;em&gt;S. sclerotiorum&lt;/em&gt;, allowing for characterization of genes involved in fungal development and pathogenicity on soybean and other plants. One effector that I am currently characterizes is particularly interesting because it appears to have two functions, able to act as a cell wall degrading enzyme &lt;em&gt;and&lt;/em&gt; as an inducer of plant cell death.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Revealing Mechanisms of Induction of Soybean Sudden Death Syndrome</title>
-      <link>rothmi12.github.io/project/4_sds_effectors/</link>
+      <link>molecularmycology.com/project/4_sds_effectors/</link>
       <pubDate>2019</pubDate>
-      <guid>rothmi12.github.io/project/4_sds_effectors/</guid>
+      <guid>molecularmycology.com/project/4_sds_effectors/</guid>
       <description>&lt;p&gt;Microbes and plants interact by releasing recognizing different molecules. In plant pathology, pathogen-secreted molecules are often referred to as &amp;ldquo;effectors&amp;rdquo; because they effect plant physiology to establish an infection. However, pathogens also secrete factors that are not always classified as effectors, such as cell-wall degrading enzymes and secondary metabolites (reviewed in 
 &lt;a href=&#34;https://doi.org/10.1146/annurev.phyto.112408.132637&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stergiopoulos and de Wit 2009&lt;/a&gt;). Despite their categorization, the mechanisms by which pathogen-secreted molecules effect plants are very interesting to many researchers like me.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Fusarium virguliforme&lt;/em&gt;, causal agent of soybean sudden death syndrome (SDS) releases multiple effector proteins during infection (

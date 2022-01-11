@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jacobs, J.L. | Mitchell G. Roth</title>
-    <link>rothmi12.github.io/authors/jacobs-j.l./</link>
-      <atom:link href="rothmi12.github.io/authors/jacobs-j.l./index.xml" rel="self" type="application/rss+xml" />
+    <title>Jacobs, J.L. | The Roth Lab</title>
+    <link>molecularmycology.com/authors/jacobs-j.l./</link>
+      <atom:link href="molecularmycology.com/authors/jacobs-j.l./index.xml" rel="self" type="application/rss+xml" />
     <description>Jacobs, J.L.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Jacobs, J.L.</title>
-      <link>rothmi12.github.io/authors/jacobs-j.l./</link>
+      <link>molecularmycology.com/authors/jacobs-j.l./</link>
     </image>
     
     <item>
       <title>Fluopyram Suppresses Population Densities of Heterodera glycines in Field and Greenhouse Studies in Michigan</title>
-      <link>rothmi12.github.io/publication/11-fluopyram-scn/</link>
+      <link>molecularmycology.com/publication/11-fluopyram-scn/</link>
       <pubDate>2020</pubDate>
-      <guid>rothmi12.github.io/publication/11-fluopyram-scn/</guid>
+      <guid>molecularmycology.com/publication/11-fluopyram-scn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diagnostic qPCR Assay to Detect Fusarium brasiliense, a causal agent of soybean Sudden Death Syndrome and Root Rot of Dry Bean</title>
-      <link>rothmi12.github.io/publication/10-f-brasiliense-qpcr/</link>
+      <link>molecularmycology.com/publication/10-f-brasiliense-qpcr/</link>
       <pubDate>2020</pubDate>
-      <guid>rothmi12.github.io/publication/10-f-brasiliense-qpcr/</guid>
+      <guid>molecularmycology.com/publication/10-f-brasiliense-qpcr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temporal dynamics of Fusarium virguliforme colonization of soybean roots</title>
-      <link>rothmi12.github.io/publication/3-temporal-dynamics/</link>
+      <link>molecularmycology.com/publication/3-temporal-dynamics/</link>
       <pubDate>2018</pubDate>
-      <guid>rothmi12.github.io/publication/3-temporal-dynamics/</guid>
+      <guid>molecularmycology.com/publication/3-temporal-dynamics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluopyram sensitivity and functional characterization of SdhB in the Fusarium solani species complex causing soybean sudden death syndrome</title>
-      <link>rothmi12.github.io/publication/4-fusarium-sdhb/</link>
+      <link>molecularmycology.com/publication/4-fusarium-sdhb/</link>
       <pubDate>2018</pubDate>
-      <guid>rothmi12.github.io/publication/4-fusarium-sdhb/</guid>
+      <guid>molecularmycology.com/publication/4-fusarium-sdhb/</guid>
       <description></description>
     </item>
     

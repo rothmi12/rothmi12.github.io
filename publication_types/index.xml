@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | Mitchell G. Roth</title>
-    <link>rothmi12.github.io/publication_types/</link>
-      <atom:link href="rothmi12.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publication_types | The Roth Lab</title>
+    <link>molecularmycology.com/publication_types/</link>
+      <atom:link href="molecularmycology.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publication_types</title>
-      <link>rothmi12.github.io/publication_types/</link>
+      <link>molecularmycology.com/publication_types/</link>
     </image>
     
   </channel>
