@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shao, D. | The Roth Lab</title>
+    <link>rothmi12.github.io/authors/shao-d./</link>
+      <atom:link href="rothmi12.github.io/authors/shao-d./index.xml" rel="self" type="application/rss+xml" />
+    <description>Shao, D.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Shao, D.</title>
+      <link>rothmi12.github.io/authors/shao-d./</link>
+    </image>
+    
+    <item>
+      <title>Effectors of Plant Necrotrophic Fungi</title>
+      <link>rothmi12.github.io/publication/17-necrotrophic-effectors/</link>
+      <pubDate>2021</pubDate>
+      <guid>rothmi12.github.io/publication/17-necrotrophic-effectors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
