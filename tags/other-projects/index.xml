@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Other Projects | The Roth Lab</title>
-    <link>molecularmycology.com/tags/other-projects/</link>
-      <atom:link href="molecularmycology.com/tags/other-projects/index.xml" rel="self" type="application/rss+xml" />
+    <link>rothmi12.github.io/tags/other-projects/</link>
+      <atom:link href="rothmi12.github.io/tags/other-projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Other Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Other Projects</title>
-      <link>molecularmycology.com/tags/other-projects/</link>
+      <link>rothmi12.github.io/tags/other-projects/</link>
     </image>
     
     <item>
       <title>Exploring Fungal-Nematode Interactions in Disease Complexes</title>
-      <link>molecularmycology.com/project/5_fungal_nematode_interactions/</link>
+      <link>rothmi12.github.io/project/5_fungal_nematode_interactions/</link>
       <pubDate>2021</pubDate>
-      <guid>molecularmycology.com/project/5_fungal_nematode_interactions/</guid>
+      <guid>rothmi12.github.io/project/5_fungal_nematode_interactions/</guid>
       <description>&lt;p&gt;Multiple disease complexes include plant pathogenic fungi and plant parasitic nematodes ( 
 &lt;a href=&#34;https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1046/j.1365-3059.2002.00785.x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Back et al. 2002&lt;/a&gt; ), including Verticillium dahliae with Pratylenchus nematodes in wilt disease of mint ( 
 &lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211508&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wheeler et al. 2019&lt;/a&gt; ), Rhizoctonia solani and Ditylenchus dipsaci in sugar beet crown and root rot ( 
@@ -31,9 +31,9 @@
     
     <item>
       <title>Investigating the Chestnut Microbiome for Causes of Graft Failure</title>
-      <link>molecularmycology.com/project/6_chestnut_microbiome/</link>
+      <link>rothmi12.github.io/project/6_chestnut_microbiome/</link>
       <pubDate>2021</pubDate>
-      <guid>molecularmycology.com/project/6_chestnut_microbiome/</guid>
+      <guid>rothmi12.github.io/project/6_chestnut_microbiome/</guid>
       <description>&lt;p&gt;Chestnut species in the Castanea genus harbor a tremendous amount of genetic diversity among trees. This diversity contributes to differences in taste, size, quality, disease resistance, time to maturity, and yield across individual plants in an orchard, making it difficult to commercially farm. In apple, consistency in these qualities is achieved through grafting, which allows for clonal propagation of desirable apple varieties. Grafting success rates in apple are frequently greater than 90%, while chestnut grafting success rates are unacceptably low, frequently less than 50% and often as low as 10%. Chestnuts also harbor a great diversity of bacterial and fungal endophytes inside of the woody tissues. The goal of this project is to gain a deeper understanding of what fungal and bacterial species are present in chestnut trees before, during, and after grafting. We are using a high-throughput DNA sequencing approach to identify unique microbial DNA sequences, revealing the identity and abundance of all microbes in a single chestnut graft sample. We hypothesize that wounding and plant stress responses associated with the grafting process influence the abundance of specific microbes within a chestnut graft. This shift in abundance may allow one of these endophytes that are naturally present in a healthy chestnut tree to transition into a pathogenic phase, resulting in graft failure. With this information on the chestnut microbiome associated with grafting, we intend to test multiple biocontrol agents for their ability to suppress changes in the microbe abundance, ultimately improving grafting success rates.&lt;/p&gt;
 </description>
     </item>

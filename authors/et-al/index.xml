@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>et al | The Roth Lab</title>
-    <link>molecularmycology.com/authors/et-al/</link>
-      <atom:link href="molecularmycology.com/authors/et-al/index.xml" rel="self" type="application/rss+xml" />
+    <link>rothmi12.github.io/authors/et-al/</link>
+      <atom:link href="rothmi12.github.io/authors/et-al/index.xml" rel="self" type="application/rss+xml" />
     <description>et al</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>et al</title>
-      <link>molecularmycology.com/authors/et-al/</link>
+      <link>rothmi12.github.io/authors/et-al/</link>
     </image>
     
     <item>
       <title>Phylogenomic analysis of a 55.1 kb 19-gene dataset resolves a monophyletic Fusarium that includes the Fusarium solani species complex</title>
-      <link>molecularmycology.com/publication/15-fusarium-phylogenomics/</link>
+      <link>rothmi12.github.io/publication/15-fusarium-phylogenomics/</link>
       <pubDate>2021</pubDate>
-      <guid>molecularmycology.com/publication/15-fusarium-phylogenomics/</guid>
+      <guid>rothmi12.github.io/publication/15-fusarium-phylogenomics/</guid>
       <description></description>
     </item>
     

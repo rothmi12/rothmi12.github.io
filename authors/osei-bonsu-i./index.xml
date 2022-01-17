@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Osei-Bonsu, I. | The Roth Lab</title>
-    <link>molecularmycology.com/authors/osei-bonsu-i./</link>
-      <atom:link href="molecularmycology.com/authors/osei-bonsu-i./index.xml" rel="self" type="application/rss+xml" />
+    <link>rothmi12.github.io/authors/osei-bonsu-i./</link>
+      <atom:link href="rothmi12.github.io/authors/osei-bonsu-i./index.xml" rel="self" type="application/rss+xml" />
     <description>Osei-Bonsu, I.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Osei-Bonsu, I.</title>
-      <link>molecularmycology.com/authors/osei-bonsu-i./</link>
+      <link>rothmi12.github.io/authors/osei-bonsu-i./</link>
     </image>
     
     <item>
       <title>MultispeQ Beta: a tool for large-scale plant phenotyping connected to the open PhotosynQ network</title>
-      <link>molecularmycology.com/publication/1-multispeq/</link>
+      <link>rothmi12.github.io/publication/1-multispeq/</link>
       <pubDate>2016</pubDate>
-      <guid>molecularmycology.com/publication/1-multispeq/</guid>
+      <guid>rothmi12.github.io/publication/1-multispeq/</guid>
       <description></description>
     </item>
     

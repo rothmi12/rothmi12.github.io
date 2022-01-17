@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plant Resistance | The Roth Lab</title>
-    <link>molecularmycology.com/tags/plant-resistance/</link>
-      <atom:link href="molecularmycology.com/tags/plant-resistance/index.xml" rel="self" type="application/rss+xml" />
+    <link>rothmi12.github.io/tags/plant-resistance/</link>
+      <atom:link href="rothmi12.github.io/tags/plant-resistance/index.xml" rel="self" type="application/rss+xml" />
     <description>Plant Resistance</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Plant Resistance</title>
-      <link>molecularmycology.com/tags/plant-resistance/</link>
+      <link>rothmi12.github.io/tags/plant-resistance/</link>
     </image>
     
     <item>
       <title>R-gene Mediated Susceptibility to White Mold in Soybean</title>
-      <link>molecularmycology.com/project/2_soybean_rgene_susceptibility/</link>
+      <link>rothmi12.github.io/project/2_soybean_rgene_susceptibility/</link>
       <pubDate>2020</pubDate>
-      <guid>molecularmycology.com/project/2_soybean_rgene_susceptibility/</guid>
+      <guid>rothmi12.github.io/project/2_soybean_rgene_susceptibility/</guid>
       <description>&lt;p&gt;The plant immune system is considered to be innate rather than adaptive. Part of this innate immune system is the presence of membrane bound proteins that can recognize specific molecules in the surrounding environment. These genes go by many different names, but are most commonly referred to as R-genes, where &amp;ldquo;R&amp;rdquo; stands for either &amp;ldquo;resistance&amp;rdquo; or &amp;ldquo;receptor&amp;rdquo;. When an R-gene recognizes certain molecules from plant pathogens, the R-gene can initiate defense signals to prevent the pathogen from infecting the plant. These defense signals often culminate in localized plant cell death - sacrificing part of the plant to save the whole organism.&lt;/p&gt;
 &lt;p&gt;However, some fungal plant pathogens specifically feed on dead plant tissue. Therefore, plant cell death is exactly what the fungal pathogen wants. Therefore, some necrotrophic fungi purposely release molecules that can be recognzied by R-genes, triggering localized plant cell death. This concept is referred to as the inverse gene-for-gene model (pictured above). Key examples of this have been shown in two different fungal diseases of wheat; tan spot (Ciuffetti et al 
 &lt;a href=&#34;https://doi.org/10.1111/j.1469-8137.2010.03362.x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2010&lt;/a&gt;), and Stagonospora nodorum blotch (Friesen and Faris 
