@@ -77,6 +77,19 @@
     </item>
     
     <item>
+      <title>Engineering the Phenylpropanoid Pathway for Disease Resistance</title>
+      <link>rothmi12.github.io/project/1_soybean_phenylpropanoid/</link>
+      <pubDate>2022</pubDate>
+      <guid>rothmi12.github.io/project/1_soybean_phenylpropanoid/</guid>
+      <description>&lt;p&gt;Most commercial soybean varieties are highly susceptible to &lt;em&gt;Sclerotinia sclerotiorum&lt;/em&gt;, which causes the soybean disease known as Sclerotinia stem rot, or more commonly referred to as &amp;ldquo;white mold&amp;rdquo;. A recent study by Ranjan et al (
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13082&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019&lt;/a&gt;) showed that two recombinant inbred soybean lines from the same parentage respond differently when inoculated with &lt;em&gt;Sclerotinia sclerotiorum&lt;/em&gt;, showing either susceptible or resistant phenotypes. Interestingly, the resistant soybean line developed a strong &amp;ldquo;red stem&amp;rdquo; phenotype (pictured above).&lt;/p&gt;
+&lt;p&gt;Comparing genetic responses between the two soybean lines indicated that a downregulation of genes in the phenylpropanoid pathway may be a key to mounting a resistance response. Additional metabolomics efforts showed that phenylpropanoid intermediates accumulated higher in the resistant line than the susceptible line. Finally, these phenylpropanoid intermediate compounds were shown to have anti-fungal activity, specifically targeting ergosterol biosynthesis.
+&lt;img src=&#34;phenylpropanoid_pathway.png&#34; alt=&#34;Phenylpropanoid pathway, from Ranjan et al. 2019&#34;&gt;
+My work is continuing on this project by identifying key genetic components of the phenylpropanoid pathway in soybean and using a gene silencing approach to knock down each phenylpropanoid gene candidate. Using this approach, I hope to validate the role of each gene in the phenylpropanoid pathway and identify targets that can be silenced to specifically lead to accumulating anti-fungal phenylpropanoid intermediates.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Integration of Row Spacing, Seeding Rates, and Fungicide Application for Control of Sclerotinia Stem Rot in *Glycine max*</title>
       <link>rothmi12.github.io/publication/18-whitemold-ipm/</link>
       <pubDate>2021</pubDate>
