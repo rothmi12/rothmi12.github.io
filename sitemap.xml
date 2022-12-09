@@ -53,11 +53,6 @@
   </url>
   
   <url>
-    <loc>rothmi12.github.io/authors/admin/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>rothmi12.github.io/publication_types/2/</loc>
     <lastmod>2021-11-23T00:00:00+00:00</lastmod>
   </url>
@@ -104,6 +99,11 @@
   
   <url>
     <loc>rothmi12.github.io/publication/</loc>
+    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>rothmi12.github.io/authors/roth-m.g./</loc>
     <lastmod>2021-11-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -353,11 +353,6 @@
   </url>
   
   <url>
-    <loc>rothmi12.github.io/authors/roth-m.g./</loc>
-    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>rothmi12.github.io/authors/shay-r./</loc>
     <lastmod>2019-08-26T00:00:00+00:00</lastmod>
   </url>
@@ -550,6 +545,10 @@
   <url>
     <loc>rothmi12.github.io/authors/zegarac-r./</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>rothmi12.github.io/authors/admin/</loc>
   </url>
   
   <url>
